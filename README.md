@@ -11,6 +11,8 @@
 8. 查詢coindesk API -> GET https://api.coindesk.com/v1/bpi/currentprice.json
 9. 查詢資料轉換的API -> GET http://localhost:8081/api/coindesk
 
-note:
+### 其他
 - 使用 JUnit 和 [postman](https://www.postman.com/dark-water-495034/workspace/testcollection/request/21787422-d5ac8f6c-3514-40a3-82cb-d9939d4a0fff?action=share&creator=21787422&ctx=documentation) 測試
+- 幣別與其對應中文名稱的資料表 /src/main/resources/schema.sql
+- 測試數據 /src/main/resources/data.sql
 - 刷新 Maven 依賴 `mvn clean install -U`
