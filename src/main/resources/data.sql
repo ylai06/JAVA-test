@@ -2,7 +2,7 @@
 INSERT INTO currency (code, name_zh) VALUES ('USD', '美元');
 INSERT INTO currency (code, name_zh) VALUES ('EUR', '歐元');
 INSERT INTO currency (code, name_zh) VALUES ('JPY', '日圓');
--- INSERT INTO currency (code, name_zh) VALUES ('GBP', '英鎊');
+INSERT INTO currency (code, name_zh) VALUES ('GBP', '英鎊');
 -- INSERT INTO currency (code, name_zh) VALUES ('AUD', '澳元');
 -- INSERT INTO currency (code, name_zh) VALUES ('CAD', '加幣');
 -- INSERT INTO currency (code, name_zh) VALUES ('CHF', '瑞士法郎');
